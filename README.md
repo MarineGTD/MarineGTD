@@ -13,4 +13,4 @@ Here you will see my projects carried out, enjoy your visit!
 
 
 
-![372102050_LINKEDIN_ICON_400px](https://github.com/MarineGTD/MarineGTD/assets/112564039/f2433f37-abaa-4fd3-b4e4-39440567d194) https://www.linkedin.com/in/marine-guitteaud/
+![372102050_LINKEDIN_ICON_400px](https://github.com/MarineGTD/MarineGTD/assets/112564039/f2433f37-abaa-4fd3-b4e4-39440567d194https://www.linkedin.com/in/marine-guitteaud/) 
