@@ -11,6 +11,6 @@ Create websites that are both interactive and dynamic.
 
 Here you will see my projects carried out, enjoy your visit!
 
+![linkedin-icon-512x512-vkm0drb1](https://github.com/MarineGTD/MarineGTD/assets/112564039/e971c432-9636-43df-892d-9d95ccbc51d5)
+https://www.linkedin.com/in/marine-guitteaud/) 
 
-
-![372102050_LINKEDIN_ICON_400px](https://github.com/MarineGTD/MarineGTD/assets/112564039/f2433f37-abaa-4fd3-b4e4-39440567d194https://www.linkedin.com/in/marine-guitteaud/) 
