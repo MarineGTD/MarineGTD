@@ -4,13 +4,27 @@ Hi there 👋
 
 
 
+👾 Who am I ?
 
-Passionate about video games since I was little,
-I recently became interested in web development.
-Create websites that are both interactive and dynamic.
+Marine, passionate about web development,
+I like to discover and learn different languages.
+Work on projects alone or in a team. 💻
 
-Here you will see my projects carried out, enjoy your visit!
+📖 What training and diplomas?
 
-![linkedin-icon-512x512-vkm0drb1](https://github.com/MarineGTD/MarineGTD/assets/112564039/e971c432-9636-43df-892d-9d95ccbc51d5)
-https://www.linkedin.com/in/marine-guitteaud/) 
+I was able to discover HTML CSS thanks to introductory training.
+Then I trained in a school, where I was able to learn php mysql symfony bootstrap sass scrum.
+Currently I am preparing a bac + 2 in this field to deepen my knowledge and improve myself even more. ✨
 
+💖 My passions ?
+
+I like to travel, discover new horizons and new cultures. ✈️ ☀️
+Animals, small preference for horses which is my favorite animal. 🐴
+I dream of being able to become an owner one day...🙏
+
+I also like motorbikes, you feel free and alive 🏍️
+
+📞 Or contact me?
+
+
+![800px-Font_Awesome_5_brands_linkedin svg](https://github.com/MarineGTD/MarineGTD/assets/112564039/7d263a18-156e-4d68-8520-75befbba8b81) marine-guitteaud
